@@ -1,0 +1,23 @@
+{
+  "name": "@mingdev/egg-base",
+  "version": "1.0.0",
+  "author": "mingdev <mingdev@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "egg-bin dev"
+  },
+  "homepage": "https://github.com/imingdev/mingdev-egg-base",
+  "dependencies": {
+    "egg": "^2.29.4",
+    "egg-bin": "^4.16.4",
+    "egg-scripts": "^2.14.0",
+    "egg-validate": "^2.0.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.31.0",
+    "eslint-config-egg": "^9.0.0"
+  },
+  "files": [
+    "config"
+  ]
+}
